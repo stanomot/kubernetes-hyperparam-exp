@@ -1,96 +1,24 @@
 - hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 128
+    batch_norm: 'off'
+    batch_size: 12
     data_aug_cutout_size: 5
     max_learning_rate: 0.4
     momentum: 0.9
 - hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 512
-    data_aug_cutout_size: 5
-    max_learning_rate: 0.4
-    momentum: 0.9
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 128
+    batch_norm: 'off'
+    batch_size: 12
     data_aug_cutout_size: 12
     max_learning_rate: 0.4
     momentum: 0.9
 - hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 512
-    data_aug_cutout_size: 12
-    max_learning_rate: 0.4
-    momentum: 0.9
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 128
-    data_aug_cutout_size: 5
-    max_learning_rate: 0.4
-    momentum: 0.99
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 512
-    data_aug_cutout_size: 5
-    max_learning_rate: 0.4
-    momentum: 0.99
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 128
-    data_aug_cutout_size: 12
-    max_learning_rate: 0.4
-    momentum: 0.99
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 512
-    data_aug_cutout_size: 12
-    max_learning_rate: 0.4
-    momentum: 0.99
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 128
+    batch_norm: 'off'
+    batch_size: 12
     data_aug_cutout_size: 5
     max_learning_rate: 0.6
     momentum: 0.9
 - hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 512
-    data_aug_cutout_size: 5
-    max_learning_rate: 0.6
-    momentum: 0.9
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 128
+    batch_norm: 'off'
+    batch_size: 12
     data_aug_cutout_size: 12
     max_learning_rate: 0.6
     momentum: 0.9
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 512
-    data_aug_cutout_size: 12
-    max_learning_rate: 0.6
-    momentum: 0.9
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 128
-    data_aug_cutout_size: 5
-    max_learning_rate: 0.6
-    momentum: 0.99
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 512
-    data_aug_cutout_size: 5
-    max_learning_rate: 0.6
-    momentum: 0.99
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 128
-    data_aug_cutout_size: 12
-    max_learning_rate: 0.6
-    momentum: 0.99
-- hyperparam_set:
-    batch_norm: 'on'
-    batch_size: 512
-    data_aug_cutout_size: 12
-    max_learning_rate: 0.6
-    momentum: 0.99
